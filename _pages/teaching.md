@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: An overview of courses that I've helped teach. You can use the links below to access class materials and syllabi!
+description: Here's an overview of the courses that I've helped teach during my time at UC Berkeley. You can use the links below to access class materials and syllabi!
 nav: true
 nav_order: 5
 ---

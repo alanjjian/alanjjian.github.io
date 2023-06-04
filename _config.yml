@@ -100,7 +100,7 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
-facebook_id: battleshipalan # your facebook id
+facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
@@ -170,7 +170,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /reading/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -373,13 +373,13 @@ enable_tooltips:
   # for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social:
-  false # enables displaying social links in the
+  true # enables displaying social links in the
   # navbar on the about page
 enable_project_categories:
   true # enables categorization of projects into
   # multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
-enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar: false # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions
