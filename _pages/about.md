@@ -19,7 +19,7 @@ Hi there! I'm a 5th-year Masters student in Data Science at UC Berkeley. My prim
 
 In just the past year, I've had the chance to work on a number of exciting projects, including the deployment of a [fine-tuned RetinaNet model to automate the counting of elephant seals](https://github.com/alanjjian/mids-251-elephant-seal) at Point Reyes and a slightly more whimsical attempt to [use BART to create two-sentence horror stories](https://github.com/alanjjian/w207-two-sentence-horror) based on [r/TwoSentenceHorror](https://www.reddit.com/r/TwoSentenceHorror/).
 
-I've also had the opportunity to TA for the very classes that inspired me to become a data scientist at UC Berkeley, including Data 100, 102, and Data 104. You can read more about those on my [teaching page](alanjjian.github.io/teaching/).
+I've also had the opportunity to TA for the very classes that inspired me to become a data scientist at UC Berkeley, including Data 100, 102, and Data 104. You can read more about those on my [teaching page](alanjjian.github.io/teaching/). You can also catch me on Medium, where I occassionally write blog posts on medium about things that I'm working on, or stuff that I'm thinking about. 
 
 During my undergraduate (which I also spent at Berkeley), I had the chance to work with Prof. Sara Beckman and Prof. Kosa Goucher-Lambert to study goal formation on student teams using NLP techniques. You can read all about our findings in our [conference paper](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2021/85406/V004T04A005/1128089?redirectedFrom=PDF).
 
