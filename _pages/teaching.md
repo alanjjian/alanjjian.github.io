@@ -10,6 +10,7 @@ nav_order: 5
 ### [Data 102](https://data102.org/sp23/): Data, Inference, and Decisions
 
 *Teaching Assistant - Fall 2023*
+
 *Teaching Assistant - Spring 2023*
 
 This course develops the probabilistic foundations of inference in data science, and builds a comprehensive view of the modeling and decision-making life cycle in data science including its human, social, and ethical implications. 
